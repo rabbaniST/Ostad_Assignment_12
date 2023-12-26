@@ -43,7 +43,7 @@
 
         <!-- LOGO -->
         <div class="logo-box">
-            <a href="index.html" class="text-white text-center align-middle"> e-Ticket Online</a>
+            <a href="{{ route('index') }}" class="text-white text-center align-middle"> e-Ticket Online</a>
         </div>
 
         <ul class="list-unstyled topnav-menu topnav-menu-left m-0">

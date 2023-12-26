@@ -89,7 +89,7 @@
                         <div class="col-4">
                             <div class="avatar-md bg-warning rounded">
 
-                                <i class="fe-delete avatar-title font-22 text-white"></i>
+                                <i class="fe-award avatar-title font-22 text-white"></i>
                             </div>
                         </div>
                         <div class="col-8">
